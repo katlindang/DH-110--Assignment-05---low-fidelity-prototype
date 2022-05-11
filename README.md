@@ -43,6 +43,14 @@ Based on previous user research, we will be focusing on three main design featur
 ## Low-Fidelity Prototype
 
 
+
+
+
+
+The user successfully signed up for an account. For the next task, the user initially chose the hamburger icon to look for “Minor Triad” instead of using the search bar. After the user couldn’t find the lesson on the side bar he, then, used the search bar for the topic. The search bar suggested some options and clicked the “minor triad” option. He successfully got to the page was was able to read and save the lesson. For the last task, he scrolled to the bottom of the page to find the page he needed to go to. Overall, he followed the flow of the design and completed all of the tasks.
+
+
+
 ## Reflection
 
 
