@@ -26,7 +26,8 @@ Based on previous user research, we will be focusing on three main design featur
 1. Sign up for an account
 2. Find what “Minor Triads” are
 3. Save/Bookmark "Minor Triads" lesson
-4. Use the navigation bar to go to the 6th page in the “chords” section
+4. Watch the video on the "Minor Triads" page
+5. Use the navigation bar to go to the 6th page in the “chords” section
 
 
 
