@@ -3,7 +3,7 @@
 
 ## Purpose
 
- For this low-fidelity prototype, we will be designing an app that helps middle-aged men learn how to produce electronic music. This app allows users to learn how to produce electronic music at their own pace while also being able to interact and hear what it sounds like.  Redesigning this app will allow users to navigate the site easier and make it easier for users to look up specific sections or chapters of the app.![image](https://user-images.githubusercontent.com/79435862/167921439-fc863e55-1ffd-4ee3-b594-592ee52767be.jpeg)
+ For this low-fidelity prototype, we will be designing an app that helps middle-aged men learn how to produce electronic music. This app allows users to learn how to produce electronic music at their own pace while also being able to interact and hear what it sounds like.  Redesigning this app will allow users to navigate the site easier and make it easier for users to look up specific sections or chapters of the app.
 
 
 Low Fidelity prototyping is an effective and low-cost way to test the contents of your design before the development of the final product. It allows designers to obtain user feedback to work out problem areas and errors in the design. It is low-cost and allows app designers to see how easily users can or can’t navigate the app.
@@ -25,7 +25,8 @@ Based on previous user research, we will be focusing on three main design featur
 
 1. Sign up for an account
 2. Find what “Minor Triads” are
-3. Use the navigation bar to go back to the 7th page in the “chords” section
+3. Save/Bookmark "Minor Triads" lesson
+4. Use the navigation bar to go to the 6th page in the “chords” section
 
 
 
@@ -43,3 +44,8 @@ Based on previous user research, we will be focusing on three main design featur
 
 
 ## Reflection
+
+
+This low-fidelity prototype was interesting to work on. As I was designing each of the frames, it made me think about the real-life process of creating apps like Instagram or TikTok. Although low-fidelity prototyping is low cost, it takes a lot of time and planning to create an effective and easy to navigate design. 
+
+This website/app is still in its beta version, so there was a lot of things that needed to be added and fixed. The main problem areas were the search bar and navigation bar at the bottom of the page. Because there were so many chapters and lessons, it is annoying to press “next” or previous” multiple times. For the low-fidelity prototyping, the user was able to perform the tasks, but the didn’t follow the flow from what I expected; however, I think it is more logical, now, to click the hamburger icon first instead of using the search bar right away. For future purposes, I think I could create a table of contents of some sorts, so users can easily see which sections and lessons there are on the app.
