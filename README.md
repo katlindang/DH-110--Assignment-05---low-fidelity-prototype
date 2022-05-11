@@ -42,7 +42,8 @@ Based on previous user research, we will be focusing on three main design featur
 
 
 ## Low-Fidelity Prototype
-
+[![IMG-4414.jpg](https://i.postimg.cc/T3HtvrHk/IMG-4414.jpg)](https://postimg.cc/tsW3hVbP)
+[![IMG-4415.jpg](https://i.postimg.cc/Qtcm7vNP/IMG-4415.jpg)](https://postimg.cc/hzPVWydb)
 
 
 
